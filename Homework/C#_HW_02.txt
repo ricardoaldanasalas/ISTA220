@@ -1,0 +1,36 @@
+# Ricardo Aldana Salas
+
+###  C# HW02
+
+1. 1. Its a type of variable declared by local variable declaration at the 
+     beginnning of a block the variable is intended to be local to. 
+1. 2. A **statement** is the action of a program.
+1. 3. Identifiers are used for indentification purposes. It is a user-defined
+      name of the program components.
+1. 4. A **variable** is a name given to a storage area that is used to stored
+      values of various data types.
+1. 5. A **method** is a code block that contains a series of statements. It is 
+      the entry porint for every C# application and called bye the common language
+      runtime(CLR)
+1. 6. A **primitive** type is a type defined at the programming language level,
+      often it is a even a value type, directly supported by the compiler of the language.
+      A valuetyep is usually whatever type reside on the stack.]
+1. 7. you can use all the type char, int, long ... like the variables.
+1. 8. One would att the syntex .ToString() at the end of the variable.
+1. 9. You can convert it by using the methods System.convert classs or by calling the Parse or 
+      TryParse method. Exam. var number = int.Parse("11")
+1. 10.Operator precedence determines which operator is performed first in an expression with 
+      more than one operators with different precedence. Operators Associativity is used when
+      two operators of same precedence appear in an expression.
+1. 11. is a rule simply stating that every variable must have a value before it's read from.
+1. 12. The prefix decrement increases the value of its operand before  it has been evaluated.
+       The prefix increment/decrement change the value before the expresssion is evaluated.
+       The postfix incre/decrement change the value ofter.
+1. 13. Is used to format and manipulate string. is a method of concatenating, formatting and
+       manipulating strings.//$ before a string so that a variable will be use in the string.
+
+1. 14. is used to declare implicit type variables in C#
+
+HW1,Lab0,Lab1 family,quiz one aldana family
+
+a variable is a location in memory that contains a value witha type
