@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\MSSA\C#\ManipulatingArrays\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\MSSA\C#\ManipulatingArrays\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\MSSA\C#\ManipulatingArrays\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\MSSA\C#\ManipulatingArrays\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.exe
+C:\Users\Admin\OneDrive\MSSA\C#\ManipulatingArrays\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.deps.json
+C:\Users\Admin\OneDrive\MSSA\C#\ManipulatingArrays\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.runtimeconfig.json
+C:\Users\Admin\OneDrive\MSSA\C#\ManipulatingArrays\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\MSSA\C#\ManipulatingArrays\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.dll
+C:\Users\Admin\OneDrive\MSSA\C#\ManipulatingArrays\ManipulatingArrays\bin\Debug\netcoreapp3.1\ManipulatingArrays.pdb
+C:\Users\Admin\OneDrive\MSSA\C#\ManipulatingArrays\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.dll
+C:\Users\Admin\OneDrive\MSSA\C#\ManipulatingArrays\ManipulatingArrays\obj\Debug\netcoreapp3.1\ManipulatingArrays.pdb

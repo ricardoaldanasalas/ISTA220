@@ -1,0 +1,6 @@
+C:\Users\Admin\OneDrive\MSSA\C#\C_Lab_08\Parameters\Parameters\bin\Debug\Parameters.exe.config
+C:\Users\Admin\OneDrive\MSSA\C#\C_Lab_08\Parameters\Parameters\bin\Debug\Parameters.exe
+C:\Users\Admin\OneDrive\MSSA\C#\C_Lab_08\Parameters\Parameters\bin\Debug\Parameters.pdb
+C:\Users\Admin\OneDrive\MSSA\C#\C_Lab_08\Parameters\Parameters\obj\Debug\Parameters.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\MSSA\C#\C_Lab_08\Parameters\Parameters\obj\Debug\Parameters.exe
+C:\Users\Admin\OneDrive\MSSA\C#\C_Lab_08\Parameters\Parameters\obj\Debug\Parameters.pdb

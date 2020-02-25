@@ -1,0 +1,6 @@
+C:\Users\Admin\OneDrive\MSSA\C#\C_Lab_09\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe.config
+C:\Users\Admin\OneDrive\MSSA\C#\C_Lab_09\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe
+C:\Users\Admin\OneDrive\MSSA\C#\C_Lab_09\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
+C:\Users\Admin\OneDrive\MSSA\C#\C_Lab_09\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\MSSA\C#\C_Lab_09\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.exe
+C:\Users\Admin\OneDrive\MSSA\C#\C_Lab_09\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.pdb
